@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Blog" 
+title: "" 
 ---
-I am a PhD candidate at Princeton. 
+A PhD candidate at Princeton, I have taught courses 
