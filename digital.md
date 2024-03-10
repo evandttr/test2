@@ -1,5 +1,8 @@
-# Digital storytelling and exhibits 
-I have built public-facing digital exhibits for a variety of collaborative library-based research projects. The frames below demonstrate some prototype maps and timelines I built using open-source tools developed by Knightlab at Northwestern University, [Storymaps JS](https://storymap.knightlab.com/) and [Timeline JS](https://timeline.knightlab.com/), for a NEH-funded inter-institutional digital humanities project affiliated with Princeton University's Spanish and Portuguese department. 
+---
+layout: page
+title: "Digital Storytelling" 
+---
+At Princeton Univeristy Library, I have built public-facing digital exhibits for a variety of collaborative library-based research projects. The frames below demonstrate some prototype maps and timelines built using open-source tools developed by Knightlab at Northwestern University, [Storymaps JS](https://storymap.knightlab.com/) and [Timeline JS](https://timeline.knightlab.com/), for a NEH-funded inter-institutional digital humanities project affiliated with Princeton University's Spanish and Portuguese department. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1CvOjdztrLzGUkgKLPuUURAUBb_qy4ZypPO8sJBO71Sg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
