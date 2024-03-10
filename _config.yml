@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "./evan.pdf", title: "CV/Resume"}
+  - {url: "https://evandttr.github.io/folder/document.pdf", title: "CV/Resume"}
   - {file: "README.md"}
   - {file: "digital.md", title: "Digital Humanities Projects"}
 
