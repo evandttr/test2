@@ -16,11 +16,46 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.md", title: "CV/Resume"}
-  - {file: "bio.md", "About me"}
-  - {file: "curate.md", title: "Curated Collections"}
-  - {file: "hand.md", title: "Handwritten Text Recognition"}
-  - {file: "digital.md", title: "Digital Storytelling"}
+  - title: Main Menu
+    subfolderitems:
+      - name: "Home"
+        url: "../"
+        weight: 2
+      - name: "Pages"
+        url: "#"
+        weight: 3
+        subsubfolderitems:
+          - name: "About"
+            url: "/about/"
+            weight: 2
+          - name: "Pricing"
+            url: "/pricing/"
+            weight: 2
+          - name: "Faq's"
+            url: "/faq/"
+            weight: 2
+          - name: "Contact"
+            url: "/contact/"
+            weight: 2
+          - name: "Testimonial"
+            url: "/testimonial/"
+            weight: 2
+          - name: "404"
+            url: "/404/"
+            weight: 2
+      - name: "Blog"
+        url: "#"
+        weight: 3
+        subsubfolderitems:
+          - name: "Blog Listing"
+            url: "/blog/"
+            weight: 2
+          - name: "Blog Single"
+            url: "/adum-software-industry-how-achive-the-goal/"
+            weight: 2
+      - name: "Contact"
+        url: "/contact/"
+        weight: 2
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:editter@princeton.edu"}
