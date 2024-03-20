@@ -1,3 +1,6 @@
+### Evan Ditter
+[CV in PDF format](https://evandttr.github.io/folder/document.pdf)
+
 ### EDUCATION
 					
 **PhD Candidate in French Studies** (ABD) Princeton University – (Princeton, NJ)	2018-2024
