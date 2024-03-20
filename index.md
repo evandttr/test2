@@ -8,10 +8,7 @@ title: ""
 <html>
 <head>
 <style>
-img {
-  float: left;
-  border-radius: 50%;
-}
+
 .container {
   position: relative;
   width: 100%;
