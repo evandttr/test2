@@ -8,9 +8,3 @@ title: ""
 </p>
 
 With years of experience as an educator in the humanities and supporting research projects, I have worked on a variety of library-based projects and digital initiatives Princeton University Library and Penn Libraries at the University of Pennsylvania. I am interested in collaborative work of librarians as research partners, connecting students, educators, and other stakeholders within and beyond university campuses, promoting digital literacies and employing digital tools to make cultural heritage materials accessible. 
-
-[CV](https://evandttr.github.io/folder/document.pdf)
-
-Recent projects I've worked on: 
-
-[AI-powered Handwritten Text Recognition](./hand.md) | [Digital Storytelling](./digital.md) | [Digital Library Exhibits and Libguides](./curate.md)
