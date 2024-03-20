@@ -11,12 +11,12 @@ title: ""
 
 .container {
   position: relative;
-  width: 50%;
+  width: 25%;
   max-width: 400px;
 }
 
 .container img {
-  width: 50%;
+  width: 25%;
   height: auto;
 }
 
