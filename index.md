@@ -48,8 +48,8 @@ title: ""
 <br>
 
 <div class="container">
-  <img src="https://github.com/evandttr/test2/assets/120140116/8e292148-6bd0-4dbf-a54c-a59a5ee4676f" alt="Snow" style="width:50%">
-  <button class="btn">Button</button>
+  <img src="https://github.com/evandttr/test2/assets/120140116/8e292148-6bd0-4dbf-a54c-a59a5ee4676f" alt="Snow" style="width:100%">
+  <button class="btn">Curated<br>Collections</button>
 </div>
 
 <br>
