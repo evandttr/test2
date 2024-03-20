@@ -16,14 +16,17 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://evandttr.github.io/folder/document.pdf", title: "CV/Resume"}
-  - {file: "README.md"}
+  - {file: "cv.md", title: "CV/Resume"}
+  - {file: "bio.md", "About me"}
   - {file: "digital.md", title: "Digital Humanities Projects"}
+    subfolderitems:
+      -{file: "curate.md", title: "Curated Collections"}
+      -{file: "hand.md", title: "Handwritten Text Recognition"}
+      -{file: "digital.md", title: "Digital Storytelling"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:editter@princeton.edu"}
   - {title: Github, icon: github, url: "https://github.com/evandttr"}
-  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/in/evan-ditter-37a59329b/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
