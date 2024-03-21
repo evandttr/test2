@@ -57,8 +57,6 @@ title: ""
   <button class="btn">Curated Collections</button>
 </div>
 
-<img width="675" alt="Screen Shot 2024-03-21 at 3 15 00 PM" src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5">
-
 <br>
 <h3>About me</h3>
 
