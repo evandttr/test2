@@ -8,32 +8,35 @@ title: ""
 <html>
 <head>
 <style>
+img {
+  border-radius: 15px;
+}
 
 .container {
   position: relative;
-  width: 75%;
-  max-width: 200px;
+  
+  width: 100%;
+  max-width: 400px;
 }
 
 .container img {
-  width: 75%;
+  width: 100%;
   height: auto;
 }
 
 .container .btn {
   position: absolute;
-  opacity: 0.5;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #555;
+  background-color: transparent;
   color: white;
   font-size: 16px;
-  padding: 12px 24px;
+  padding: none;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 0px;
   text-align: center;
 }
 
