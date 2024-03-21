@@ -22,8 +22,9 @@ title: ""
 
 .container .btn {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  opacity: 0.5
+  top: 100%;
+  left: 100%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #555;
@@ -48,9 +49,11 @@ title: ""
 <br>
 
 <div class="container">
-  <img src="https://github.com/evandttr/test2/assets/120140116/8e292148-6bd0-4dbf-a54c-a59a5ee4676f" alt="Snow" style="width:100%">
-  <button class="btn">Curated<br>Collections</button>
+  <img src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5" alt="Snow" style="width:100%">
+  <button class="btn">Curated Collections</button>
 </div>
+
+<img width="675" alt="Screen Shot 2024-03-21 at 3 15 00 PM" src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5">
 
 <br>
 <h3>About me</h3>
