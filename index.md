@@ -59,7 +59,7 @@ title: ""
 A PhD candidate at Princeton University specializing in Early Modern France, I have worked on a variety of library-based projects and digital initiatives at Princeton University Library and Penn Libraries at the University of Pennsylvania. I am passionate about promoting digital literacies and employing digital tools to make cultural heritage materials accessible.</p>
 
 <iframe
-      src="https://github.com/evandttr/test2/files/14706064/Verification_Data.pdf"
+      src="https://drive.google.com/file/d/1mUCqeRUzw1O9j_D9UT89MznjKJ-KLaTy/view?usp=drive_link"
       width="100%"
       height="600px"
       loading="lazy"
