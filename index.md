@@ -23,8 +23,8 @@ title: ""
 .container .btn {
   position: absolute;
   opacity: 0.5
-  top: 100%;
-  left: 100%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #555;
@@ -50,7 +50,7 @@ title: ""
 
 <div class="container">
   <img src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5" alt="Snow" style="width:100%">
-  <button class="btn">Curated Collections</button>
+  <button class="btn">CuratedCollections</button>
 </div>
 
 <img width="675" alt="Screen Shot 2024-03-21 at 3 15 00 PM" src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5">
