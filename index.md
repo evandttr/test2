@@ -12,6 +12,12 @@ title: ""
     border-radius: 15px
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .container {
   position: relative;
@@ -53,7 +59,7 @@ title: ""
 <br>
 
 <div class="container">
-  <img class="special-image" src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5" alt="Snow" style="width:100%">
+  <img class="special-image center" src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5" alt="Snow" style="width:100%">
   <button class="btn">Curated Collections</button>
 </div>
 
