@@ -11,20 +11,20 @@ title: ""
 
 .container {
   position: relative;
-  width: 25%;
-  max-width: 400px;
+  width: 75%;
+  max-width: 200px;
 }
 
 .container img {
-  width: 25%;
+  width: 75%;
   height: auto;
 }
 
 .container .btn {
   position: absolute;
-  opacity: 0.5
-  top: 50%;
-  left: 50%;
+  opacity: 0.5;
+  top: 100%;
+  left: 100%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #555;
