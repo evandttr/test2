@@ -8,9 +8,10 @@ title: ""
 <html>
 <head>
 <style>
-img {
-  border-radius: 15px;
+.special-image {
+    border-radius: 15px
 }
+
 
 .container {
   position: relative;
@@ -52,7 +53,7 @@ img {
 <br>
 
 <div class="container">
-  <img src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5" alt="Snow" style="width:100%">
+  <img class="special-image" src="https://github.com/evandttr/test2/assets/120140116/988cedbb-cb1f-48e6-97d6-9c6e32d2c9f5" alt="Snow" style="width:100%">
   <button class="btn">Curated Collections</button>
 </div>
 
