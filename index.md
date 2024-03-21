@@ -57,5 +57,14 @@ title: ""
 
 <p><img src="https://github.com/evandttr/evandttr.github.io/assets/120140116/fe656ec6-a055-4251-b8b7-0cb9cdabc06f" alt="profile" style="width:75px;margin-left:0px; margin-right:20px;">
 A PhD candidate at Princeton University specializing in Early Modern France, I have worked on a variety of library-based projects and digital initiatives at Princeton University Library and Penn Libraries at the University of Pennsylvania. I am passionate about promoting digital literacies and employing digital tools to make cultural heritage materials accessible.</p>
+
+<iframe
+      src="https://github.com/evandttr/test2/files/14706064/Verification_Data.pdf"
+      width="100%"
+      height="600px"
+      loading="lazy"
+      title="PDF-file"
+  ></iframe>
+
 </body>
 </html>
